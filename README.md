@@ -1,4 +1,4 @@
 shell_files
 ===========
 
-shell stuf
+shell stuff
